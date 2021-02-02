@@ -1,0 +1,26 @@
+NAME                                         STATUS   ROLES           AGE     VERSION
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   Ready    master,worker   4h26m   v1.19.0+1348ff8
+Capacity:
+  cpu:                80
+  ephemeral-storage:  467768300Ki
+  hugepages-1Gi:      16Gi
+  memory:             196722148Ki
+  pods:               250
+--
+  Resource           Requests      Limits
+  --------           --------      ------
+  cpu                2617m (3%)    0 (0%)
+  memory             13352Mi (7%)  512Mi (0%)
+  ephemeral-storage  0 (0%)        0 (0%)
+Events:
+Tue Feb  2 15:00:37 EST 2021
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1682m        2%     31356Mi         17%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1313m        1%     31426Mi         17%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1508m        1%     31492Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1552m        1%     31803Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1493m        1%     31904Mi         18%       

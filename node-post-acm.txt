@@ -1,0 +1,52 @@
+NAME                                         STATUS   ROLES           AGE   VERSION
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   Ready    master,worker   44m   v1.19.0+1348ff8
+Capacity:
+  cpu:                80
+  ephemeral-storage:  467768300Ki
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  memory:             196656248Ki
+--
+  Resource           Requests      Limits
+  --------           --------      ------
+  cpu                3217m (4%)    0 (0%)
+  memory             14120Mi (7%)  512Mi (0%)
+  ephemeral-storage  0 (0%)        0 (0%)
+Events:              <none>
+Tue Feb  2 11:18:40 EST 2021
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   4516m        5%     17260Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2648m        3%     17237Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   9446m        11%    17746Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   4125m        5%     18043Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   3060m        3%     17977Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2516m        3%     17977Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   3375m        4%     17978Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   3051m        3%     17998Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2946m        3%     18006Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2336m        2%     17997Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2783m        3%     17990Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2685m        3%     17987Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2799m        3%     17967Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2519m        3%     17959Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2595m        3%     17959Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2482m        3%     17970Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2662m        3%     17968Mi         9%        
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2815m        3%     17977Mi         9%        
