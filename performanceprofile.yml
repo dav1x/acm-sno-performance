@@ -1,0 +1,20 @@
+apiVersion: performance.openshift.io/v1alpha1
+kind: PerformanceProfile
+metadata:
+  name: master
+spec:
+  cpu:
+    isolated: 4-41,42-79
+    reserved: 0-3
+  hugepages:
+    defaultHugepagesSize: "1G"
+    pages:
+    - size: "1G"
+      count: 16
+      node: 0
+  numa:
+    topologyPolicy: best-effort
+  realTimeKernel:
+    enabled: false 
+  nodeSelector:
+    node-role.kubernetes.io/master: ""
