@@ -4,8 +4,8 @@ metadata:
   name: master
 spec:
   cpu:
-    isolated: 4-41,42-79
-    reserved: 0-3
+    isolated: 2-39,42-79
+    reserved: 0-1,40-41
   hugepages:
     defaultHugepagesSize: "1G"
     pages:
