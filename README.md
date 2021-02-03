@@ -5,6 +5,7 @@ This repository explores some performance impact of a single node Openshift clus
 Please see the following BZs for information regarding stalld issues after applied the performance profile:
 
 https://bugzilla.redhat.com/show_bug.cgi?id=1912118
+
 https://bugzilla.redhat.com/show_bug.cgi?id=1923220
 
 Additionally, please see the official documentation for more information:
