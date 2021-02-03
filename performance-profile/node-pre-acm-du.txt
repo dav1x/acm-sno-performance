@@ -1,0 +1,54 @@
+NAME                                         STATUS   ROLES           AGE   VERSION
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   Ready    master,worker   17h   v1.19.2+ad738ba
+Capacity:
+  cpu:                80
+  ephemeral-storage:  467768300Ki
+  hugepages-1Gi:      16Gi
+  memory:             196719120Ki
+  pods:               250
+--
+  Resource           Requests      Limits
+  --------           --------      ------
+  cpu                2577m (3%)    0 (0%)
+  memory             13152Mi (7%)  512Mi (0%)
+  ephemeral-storage  0 (0%)        0 (0%)
+Events:
+Wed Feb  3 11:15:40 EST 2021
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1817m        2%     32069Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1895m        2%     32113Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1811m        2%     32097Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1895m        2%     32101Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1978m        2%     32105Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1954m        2%     32091Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2040m        2%     32087Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1945m        2%     32075Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   3134m        3%     32099Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1999m        2%     32105Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2132m        2%     32098Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1861m        2%     32092Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2017m        2%     32088Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1846m        2%     32091Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2249m        2%     32057Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   1849m        2%     32059Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2252m        2%     32055Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2142m        2%     32051Mi         18%       
+NAME                                         CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+worker-1.clus3a.t5g.lab.eng.bos.redhat.com   2416m        3%     32098Mi         18%       
